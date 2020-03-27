@@ -1,6 +1,16 @@
 # vidhitransport
 
-A new Flutter application.
+A new or my first Flutter application.
+Its just a home page or an one page app , I am here to upload my path towards flutter devlopment and share that.
+Goal is to develop a fully fleshed ios/andriod app at the end. So the final version would be something very workfull
+
+work left
+-add icon image for main menu of device and add an image asset to it
+-goal to have a app which gets data of the trucks from the API and display the details and track location
+
+## here is the preview of what I developed
+
+![](images/Capture.JPG)
 
 ## Getting Started
 
